@@ -1,0 +1,75 @@
+/*Classes*/
+.header {}
+
+
+
+.body {
+    background-image: url(background%20image%20v2.jpeg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+.navbar {
+    float: right;
+    padding: 20px;
+    background-color: dimgrey;
+    width: 330px;
+}
+
+.link-navbar {
+    color: antiquewhite;
+    padding: 20px;
+}
+
+.link {
+    color: antiquewhite;
+    padding: 20px;
+    background-color: darkslategray;    
+}
+
+.pictures {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer {
+    float: right;
+    border: 10px;
+    border-color: aqua;
+}
+
+.text {
+    color: aliceblue;
+    margin-left: 5%;
+    word-spacing: 2px;
+    font-size: 13pt;
+    font-family: cursive;
+}
+
+/*Id´s*/
+
+#image {
+    float: left;
+    margin-top: 50px;
+    width= 350px;
+    height= 200px;
+}
+
+#frontPageText {
+    margin-top: 25%
+    float: left;
+    width: 300px;
+    text-align: left;
+    margin-left: 130px;
+}
+
+#mailLinks {
+    float: right;
+    color: antiquewhite;
+    padding: 20px;
+    background-color: dimgray;  
+}
+
+#
